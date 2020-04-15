@@ -1,8 +1,10 @@
-Starter React App on Glitch
+Old Testament Pokemon Bible Quote Generator
 ===========================
 
-This app is a very small scaffold to get you started using React and Webpack.
+This is a quote/poem generator. 
+It focuses on recreating sentences based on the websites that it is reading from. 
 
-It's been copied by @starakaj for your enjoyment. You can find the original at https://glitch.com/~starter-react.
+Examples:
+1. "We are we shall match another i’d five or came get against your release. yeah may my gyarados grunt within tales against another kotora, or another gengar against my first within ones - Zechariah 16:8"
 
-This project relates to video 2 of 5 in the [React Starter Kit](https://glitch.com/react-starter-kit) video series.
+2. "For through it, its pokécommunity ought indeed wicked, and ought he include coastline; he ought come its developers for its affinities? - Haggai 3:30"
